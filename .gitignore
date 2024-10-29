@@ -1,0 +1,11 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore other specific files or folders
+my-secret-file.json
